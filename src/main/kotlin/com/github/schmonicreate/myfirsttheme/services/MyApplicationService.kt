@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.schmonicreate.myfirsttheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.schmonicreate.myfirsttheme.MyBundle
 
 class MyApplicationService {
 
